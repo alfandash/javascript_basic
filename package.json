@@ -1,0 +1,19 @@
+{
+  "name": "javascript_basic",
+  "version": "1.0.0",
+  "description": "javascript basic for education with example ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfandash/javascript_basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfandash/javascript_basic/issues"
+  },
+  "homepage": "https://github.com/alfandash/javascript_basic#readme"
+}
